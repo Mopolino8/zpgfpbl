@@ -1,0 +1,1 @@
+The attached data file (wu_moin_ZPGFPBL_statistics.tar) contains DNS statistics of the zero-pressure-gradient flat-plate boundary layer as described in the reference "Direct numerical simulation of turbulence in a nominally zero-pressure-gradient flat-plate boundary layer" by X. Wu and P. Moin, Journal of Fluid Mechanics (2009), to appear.
